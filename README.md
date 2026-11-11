@@ -6,12 +6,12 @@ A structured collection of Java 8 concepts, examples, and hands-on practice prog
 
 ### Java 8 Features
 
--  **1. Lambda Expressions**
+-  **1. Lambda_Expressions**
 -  **2. Stream API**
 -  **3. Date and Time API**
 -  **4. Base64 Encoding and Decoding**
 -  **5. Method References and Constructor References (`::` Operator)**
--  **6. Default Methods in Interfaces**
+-  **6. Default Methods In Interfaces**
 -  **7. Static Methods in Interfaces**
 -  **8. Functional Interfaces**
     - Single Abstract Method (SAM)
